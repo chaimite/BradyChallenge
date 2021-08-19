@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BradyChallenge", "BradyChallenge\BradyChallenge.csproj", "{8F47E8F2-D90C-43C6-BBB3-C238DFEB1D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BradyChallengeTests", "BradyChallengeTests\BradyChallengeTests.csproj", "{B0E61950-FA7D-4A51-AA39-2667A6F41815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F47E8F2-D90C-43C6-BBB3-C238DFEB1D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F47E8F2-D90C-43C6-BBB3-C238DFEB1D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F47E8F2-D90C-43C6-BBB3-C238DFEB1D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F47E8F2-D90C-43C6-BBB3-C238DFEB1D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E61950-FA7D-4A51-AA39-2667A6F41815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E61950-FA7D-4A51-AA39-2667A6F41815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E61950-FA7D-4A51-AA39-2667A6F41815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E61950-FA7D-4A51-AA39-2667A6F41815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69B4B67-BFAA-496B-B6E5-FB02027ABF2B}
+	EndGlobalSection
+EndGlobal

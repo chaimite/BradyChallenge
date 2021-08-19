@@ -1,0 +1,6 @@
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\obj\Debug\netcoreapp3.1\BradyChallengeTests.csproj.AssemblyReference.cache
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\obj\Debug\netcoreapp3.1\BradyChallengeTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\obj\Debug\netcoreapp3.1\BradyChallengeTests.AssemblyInfoInputs.cache
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\obj\Debug\netcoreapp3.1\BradyChallengeTests.AssemblyInfo.cs
+C:\Users\Adriano\source\repos\BradyChallenge\BradyChallengeTests\obj\Debug\netcoreapp3.1\BradyChallengeTests.csproj.CoreCompileInputs.cache
