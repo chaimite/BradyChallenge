@@ -4,6 +4,9 @@ the file basic 01-Basic.xml is created or changed it will generate a new 01-Basi
 
 File location is set on App.config, currently I set it to my desktop, this needs to be adapted to a user on App.config.
 
+This program is using .net Core 3.1
+
+
 Assumptions:
  - It assumes that there is daily generation data for coal and gas for each gas and coal generators.
  - I assumed a location for the files since there is no requirement for that
